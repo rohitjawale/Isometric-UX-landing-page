@@ -37,7 +37,7 @@ svg:hover  #logo {
 
 }
 #headerid   {
-	font-family: product sans ,bold;
+	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 1px;
 	font-size:2em;
 	color:#fff;
@@ -48,7 +48,7 @@ svg:hover  #logo {
 }
 /*paragraph*/
 #para p {
-	font-family: product sans;
+	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0.25px;
 	font-size:16px;
 	line-height:20px;
@@ -64,7 +64,7 @@ svg:hover  #logo {
 
 /*Button*/
 .button {
-    font-family: Product sans;
+    font-family: 'Montserrat', sans-serif;
     background-color: #4CAF50; /* Green */
     border: none;
     color: #9900cc;
